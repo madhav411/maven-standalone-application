@@ -37,7 +37,7 @@
 	<id>central</id>
 	   <url>http://ec2-34-204-77-212.compute-1.amazonaws.com:8081/repository/beyblade-release/</url>
    </repository>
-   </snapshotRepository>
+   <snapshotRepository>
       <id>snapshot</id>
 	<url>http://ec2-34-204-77-212.compute-1.amazonaws.com:8081/repository/beyblade-snapshot/</url>
    </snapshotRepository>
