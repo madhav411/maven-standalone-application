@@ -18,7 +18,7 @@
 	<description>Maven Standalone Application</description>
 
 	<properties>
-		<sonar.host.url>http://ec2-34-204-77-212.compute-1.amazonaws.com:9000/</sonar.host.url>
+		<sonar.host.url>http://ec2-3-94-247-72.compute-1.amazonaws.com:9000</sonar.host.url>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
