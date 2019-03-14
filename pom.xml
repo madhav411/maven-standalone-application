@@ -42,6 +42,23 @@
 	<url>http://ec2-3-94-247-72.compute-1.amazonaws.com:8081/repository/beyblade-snapshot/</url>
    </snapshotRepository>
 </distributionManagement>
+	
+<repositories>
+    <repository>
+      <id>central</id>
+      <url>http://ec2-3-94-247-72.compute-1.amazonaws.com:8081/repository/madhav-proxy/</url>
+    </repository>
+  </repositories>
+	
+<pluginRepositories>
+	<pluginRepository>
+		<id>central</id>
+		<url>http://ec2-3-94-247-72.compute-1.amazonaws.com:8081/repository/madhav-proxy/</url>
+		</pluginRepository>
+	</pluginRepositories>
+	
+		
+		
     
 	
 
